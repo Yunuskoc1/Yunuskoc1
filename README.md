@@ -1,16 +1,17 @@
-## Hi there 👋
+## Merhaba 👋, ben Yunus Emre Koç.
 
-<!--
-**Yunuskoc1/Yunuskoc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Programcılığı öğrencisiyim. Verimli, ölçeklenebilir ve güvenli sistemler geliştirmeye büyük bir tutku duyan, gelecek vadeden bir backend geliştirici adayıyım. 
 
-Here are some ideas to get you started:
+Yeni teknolojileri keşfetmeyi, en iyi yazılım pratiklerini öğrenmeyi ve becerilerimi sürekli geliştirmeyi seviyorum. Merak ve yaratıcılıkla hareket ederek; teorik bilgimi gerçek hayata dokunan, ticari vizyonu olan projelere dönüştürmeyi ve her gün bir geliştirici olarak büyümeyi hedefliyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Odaklandığım Alanlar ve Teknolojiler
+
+* Backend Geliştirme: C#, .NET, Python
+* Web & Arayüz: HTML5, CSS3, JavaScript
+* Veritabanı Yönetimi: MSSQL, MySQL
+* Araçlar & Versiyonlama: Git, GitHub, Visual Studio
+  
+### İletişim
+
+* LinkedIn: https://www.linkedin.com/in/yunus-emre-ko%C3%A7-7aa058417/
+* E-posta: emrekoc5775@gmail.com
